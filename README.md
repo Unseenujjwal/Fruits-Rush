@@ -1,3 +1,6 @@
+<img width="630" height="500" alt="Fruits Rush" src="https://github.com/user-attachments/assets/04a46976-5979-413e-ac80-b664e7055885" />
+
+
 # 🍉 Fruit Rush
 
 **Fruit Rush** is a classical, fast-paced, and fun arcade game designed for both **mobile and desktop devices**.  
